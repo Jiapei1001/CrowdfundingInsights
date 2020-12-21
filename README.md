@@ -1,10 +1,17 @@
 # CrowdfundingInsights
 
+https://drive.google.com/file/d/120iF_r48pwQYiIDJXltT3R3V38_lGr5S/view?usp=sharing
+
+https://drive.google.com/file/d/1wkRIIG5gCZgov8PhoH0gSD-8v0gx5JQd/view?usp=sharing
+
+https://drive.google.com/file/d/1B31KhFpD4LsaSRkbGzn1NuMzLHvN3ngP/view?usp=sharing
 
 
+![](https://drive.google.com/uc?export=view&id=120iF_r48pwQYiIDJXltT3R3V38_lGr5S)
 
+![](https://drive.google.com/uc?export=view&id=1wkRIIG5gCZgov8PhoH0gSD-8v0gx5JQ)
 
-![](https://drive.google.com/uc?export=view&id=1-dKxo6m5exts-aS1KBZDny69uujuqpUn)
+![](https://drive.google.com/uc?export=view&id=1B31KhFpD4LsaSRkbGzn1NuMzLHvN3ngP)
 
 
 
