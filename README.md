@@ -57,8 +57,9 @@ The responsive web application is capable of communicating with backend SQL data
 	In this data set, we look at the prevalence of unemployment in a country. The numbers are given as a percentage as the total workforce. Our reason for investigating the unemployment rate is that small businesses are at a higher risk of going under, and that we expect to see a correlation between loans requested and unemployment. Although the dataset included many years worth of data, we chose to only look at 2018.
 
 ### ETL Workflow #1: Percentage of Population with an Account at a Financial Institution By Country
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_Population%20with%20an%20Account%20By%20Country.png" width=66% align="center"/>
+</p>
 
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_result.png" width=66% align="center"/>
 
