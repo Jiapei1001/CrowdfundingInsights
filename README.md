@@ -117,4 +117,8 @@ If the intent of Kiva is to support need-based local recipients to conduct small
 
 The web application is created with the [Kiva Crowdfunding data](https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding?select=kiva_loans.csv). The data set consists of four csv files. The csv files are inserted into MySQL and to aggregate the data together into different tables. There is over 672k rows of loan information in the first csv file.
 
-### UML
+### UML Diagram
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/UML.jpeg" width=100% />
+</p>
