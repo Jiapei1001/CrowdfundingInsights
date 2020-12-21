@@ -44,7 +44,7 @@ The responsive web application is capable of communicating with backend SQL data
 
 ## Data Warehousing:
 
-#### External Data Source:
+### External Data Source:
 
 * Dataset 1: [**World Development Indicators**](https://datacatalog.worldbank.org/dataset/world-development-indicators/)
 
@@ -56,7 +56,7 @@ The responsive web application is capable of communicating with backend SQL data
 
 	In this data set, we look at the prevalence of unemployment in a country. The numbers are given as a percentage as the total workforce. Our reason for investigating the unemployment rate is that small businesses are at a higher risk of going under, and that we expect to see a correlation between loans requested and unemployment. Although the dataset included many years worth of data, we chose to only look at 2018.
 
-#### ETL Workflow #1: 
+### ETL Workflow #1: 
 ##### Average (2016- 2018) Percentage of Population with an Account at a Financial Institution By Country
 
 <img src="https://drive.google.com/uc?export=view&id=1Yuz3m4mBGvYl4VPqUdXHKYKUyg9gjJrj" width=66% />
@@ -66,7 +66,7 @@ The responsive web application is capable of communicating with backend SQL data
 <img src="https://drive.google.com/uc?export=view&id=1yVgUXCtKo6bQQ5Q_UdqTavd8Sg3nsmpE" width=66% />
 
 
-#### ETL Workflow #2: 
+### ETL Workflow #2: 
 ##### Average (2016- 2018) Percentage of Population with an Account at a Financial Institution By Region
 
 
@@ -75,7 +75,7 @@ The responsive web application is capable of communicating with backend SQL data
 <img src="https://drive.google.com/uc?export=view&id=1lWYU9Y73_NpwDZWZDM8A2NTTkJ1G1nrP" width=66% />
 
 
-#### ETL Workflow #3: 
+### ETL Workflow #3: 
 ##### School Enrollment
 
 
@@ -84,7 +84,7 @@ The responsive web application is capable of communicating with backend SQL data
 <img src="https://drive.google.com/uc?export=view&id=19tfjARyV0Hc2jQrDuaSF3v9ZxC8wu52y" width=66% />
 
 
-#### ETL Workflow #4: 
+### ETL Workflow #4: 
 ##### Average (2016-2018) Loan Amount Distribution and GDP by Country
 <img src="https://drive.google.com/uc?export=view&id=1-5iCIJmx3G7pe4wa0FhehOFH_I1jONq-" width=66% />
 
