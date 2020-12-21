@@ -32,7 +32,7 @@ The responsive web application is capable of communicating with backend SQL data
 
 
 #### From Loans:
-![](https://drive.google.com/uc?export=view&id=120iF_r48pwQYiIDJXltT3R3V38_lGr5S)
+![](https://github.com/Jiapei1001/CrowdfundingInsights/blob/main/WebContent/resources/images/find%20loans.gif)
 <br>
 <br>
 #### From Loan Partners:
