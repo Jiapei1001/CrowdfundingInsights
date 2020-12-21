@@ -58,17 +58,17 @@ The responsive web application is capable of communicating with backend SQL data
 
 ### ETL Workflow #1: Percentage of Population with an Account at a Financial Institution By Country
 
-<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_Population%20with%20an%20Account%20By%20Country.png" width=66% />
+<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_Population%20with%20an%20Account%20By%20Country.png" width=66% align="center"/>
 
-<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_result.png" width=66% />
+<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_result.png" width=66% align="center"/>
 
-<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_result_map.png" width=66% />
+<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_result_map.png" width=66% align="center"/>
 
 
 ### ETL Workflow #2: Percentage of Population with an Account at a Financial Institution By Region
 
 
-<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL2_Population%20with%20an%20Account%20%20By%20Region.png" width=66% />
+<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL2_Population%20with%20an%20Account%20%20By%20Region.png" width=66% align="center"/>
 
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL2_result.png" width=66% />
 
