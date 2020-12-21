@@ -70,28 +70,28 @@ The responsive web application is capable of communicating with backend SQL data
 ##### Average (2016- 2018) Percentage of Population with an Account at a Financial Institution By Region
 
 
-<img src="https://drive.google.com/uc?export=view&id=133SI5IH44dPL53KGWCH7hTcSyb37lP3I" width=66% />
+<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL2_Population%20with%20an%20Account%20%20By%20Region.png" width=66% />
 
-<img src="https://drive.google.com/uc?export=view&id=1lWYU9Y73_NpwDZWZDM8A2NTTkJ1G1nrP" width=66% />
+<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL2_result.png" width=66% />
 
 
 ### ETL Workflow #3: 
 ##### School Enrollment
 
 
-<img src="https://drive.google.com/uc?export=view&id=1qKicN3_kJptD7VZntI0ViT0Y7opDws_K" width=66% />
+<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL3_School%20Enrollment.png" width=66% />
 
-<img src="https://drive.google.com/uc?export=view&id=19tfjARyV0Hc2jQrDuaSF3v9ZxC8wu52y" width=66% />
+<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL3_result.png" width=66% />
 
 
 ### ETL Workflow #4: 
 ##### Average (2016-2018) Loan Amount Distribution and GDP by Country
-<img src="https://drive.google.com/uc?export=view&id=1-5iCIJmx3G7pe4wa0FhehOFH_I1jONq-" width=66% />
+<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL4_Loan%20Amount.png" width=66% />
 
 <center>Average (2016-2018) Loan Amount Distribution by Country</center>
 
 <br>
 <br>
 
-<img src="https://drive.google.com/uc?export=view&id=13SQW52nt--7CRY-Iwsp5FHgC-t1acJOa" width=66% />
+<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL4_GDP.png" width=66% />
 <center>Average (2016-2018) GDP by Country</center>
