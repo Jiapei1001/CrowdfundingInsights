@@ -2,7 +2,6 @@
 
 Hello, there! Welcome to CrowdfundingInsights!
 
-<!--- "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaJJFY-fOdWrbIgDFlthOYa-_5jsrUD-Exsg&usqp=CAU" ---!>
 
 <img src="https://www.eatplaydrink.capetown/wp-content/uploads/2019/06/footer_image.png" />
 
