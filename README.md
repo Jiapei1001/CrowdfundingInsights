@@ -57,16 +57,41 @@ The responsive web application is capable of communicating with backend SQL data
 	In this data set, we look at the prevalence of unemployment in a country. The numbers are given as a percentage as the total workforce. Our reason for investigating the unemployment rate is that small businesses are at a higher risk of going under, and that we expect to see a correlation between loans requested and unemployment. Although the dataset included many years worth of data, we chose to only look at 2018.
 
 #### ETL Workflow #1: 
-##### Average ( years 2016- 2018) Percentage of Population with an Account at a Financial Institution By Country
-
-https://drive.google.com/file/d/1Yuz3m4mBGvYl4VPqUdXHKYKUyg9gjJrj/view?usp=sharing
+##### Average (2016- 2018) Percentage of Population with an Account at a Financial Institution By Country
 
 <img src="https://drive.google.com/uc?export=view&id=1Yuz3m4mBGvYl4VPqUdXHKYKUyg9gjJrj" width=66% />
 
+<img src="https://drive.google.com/uc?export=view&id=1pXWrPmtCtJ4aZLxGsMy2YHefKph01aJC" width=66% />
+
+<img src="https://drive.google.com/uc?export=view&id=1yVgUXCtKo6bQQ5Q_UdqTavd8Sg3nsmpE" width=66% />
+
 
 #### ETL Workflow #2: 
-##### Average ( years 2016- 2018) Percentage of Population with an Account at a Financial Institution By Region
+##### Average (2016- 2018) Percentage of Population with an Account at a Financial Institution By Region
+
+
+<img src="https://drive.google.com/uc?export=view&id=133SI5IH44dPL53KGWCH7hTcSyb37lP3I" width=66% />
+
+<img src="https://drive.google.com/uc?export=view&id=1lWYU9Y73_NpwDZWZDM8A2NTTkJ1G1nrP" width=66% />
 
 
 #### ETL Workflow #3: 
 ##### School Enrollment
+
+
+<img src="https://drive.google.com/uc?export=view&id=1qKicN3_kJptD7VZntI0ViT0Y7opDws_K" width=66% />
+
+<img src="https://drive.google.com/uc?export=view&id=19tfjARyV0Hc2jQrDuaSF3v9ZxC8wu52y" width=66% />
+
+
+#### ETL Workflow #4: 
+##### Average (2016-2018) Loan Amount Distribution and GDP by Country
+<img src="https://drive.google.com/uc?export=view&id=1-5iCIJmx3G7pe4wa0FhehOFH_I1jONq-" width=66% />
+
+<center>Average (2016-2018) Loan Amount Distribution by Country</center>
+
+<br>
+<br>
+
+<img src="https://drive.google.com/uc?export=view&id=13SQW52nt--7CRY-Iwsp5FHgC-t1acJOa" width=66% />
+<center>Average (2016-2018) GDP by Country</center>
