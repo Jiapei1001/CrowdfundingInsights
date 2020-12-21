@@ -2,7 +2,10 @@
 
 Hello, there! Welcome to CrowdfundingInsights!
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaJJFY-fOdWrbIgDFlthOYa-_5jsrUD-Exsg&usqp=CAU" width=66% />
+<!--- "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaJJFY-fOdWrbIgDFlthOYa-_5jsrUD-Exsg&usqp=CAU" ---!>
+
+<img src="https://www.eatplaydrink.capetown/wp-content/uploads/2019/06/footer_image.png" />
+
 
 Let me introduce myself.
 
@@ -56,7 +59,8 @@ The responsive web application is capable of communicating with backend SQL data
 
 	In this data set, we look at the prevalence of unemployment in a country. The numbers are given as a percentage as the total workforce. Our reason for investigating the unemployment rate is that small businesses are at a higher risk of going under, and that we expect to see a correlation between loans requested and unemployment. Although the dataset included many years worth of data, we chose to only look at 2018.
 
-### ETL Workflow #1: Percentage of Population with an Account at a Financial Institution By Country
+### ETL Workflow #1: 
+### Percentage of Population with an Account at a Financial Institution By Country
 
 The inspiration behind this graph was to determine if there was a negative correlation between the percentage of those with an account at a financial institution and the loan count. Surprisingly the correlation coefficient was only -0.14 indicating that there is no correlation between account ownership and loan count.
 
@@ -110,3 +114,8 @@ From the results, we can see the correlation is relatively low. In countries wit
 If the intent of Kiva is to support need-based local recipients to conduct small businesses, outreach efforts in countries with low GDP and low amounts are suggested to be further explored. Increasing loan lending channels in those areas through collaborations with local authorities, educating local residents to increase awareness, etc. It is also suggested to utilize the successful model and lessons in the Philippines to project outreach efforts into countries (at the leftmost side x-axis).
 
 
+## Data Source:
+
+The web application is created with the [Kiva Crowdfunding data](https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding?select=kiva_loans.csv). The data set consists of four csv files. The csv files are inserted into MySQL and to aggregate the data together into different tables. There is over 672k rows of loan information in the first csv file.
+
+### UML
