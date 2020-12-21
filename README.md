@@ -57,11 +57,12 @@ The responsive web application is capable of communicating with backend SQL data
 	In this data set, we look at the prevalence of unemployment in a country. The numbers are given as a percentage as the total workforce. Our reason for investigating the unemployment rate is that small businesses are at a higher risk of going under, and that we expect to see a correlation between loans requested and unemployment. Although the dataset included many years worth of data, we chose to only look at 2018.
 
 ### ETL Workflow #1: Percentage of Population with an Account at a Financial Institution By Country
+
+The inspiration behind this graph was to determine if there was a negative correlation between the percentage of those with an account at a financial institution and the loan count. Surprisingly the correlation coefficient was only -0.14 indicating that there is no correlation between account ownership and loan count.
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_Population%20with%20an%20Account%20By%20Country.png" width=66% align="center"/>
 </p>
-
-The inspiration behind this graph was to determine if there was a negative correlation between the percentage of those with an account at a financial institution and the loan count. Surprisingly the correlation coefficient was only -0.14 indicating that there is no correlation between account ownership and loan count.
 
 In the graph below,  the average percentage of the population with account ownership by country is represented by a bar chart and sorted in ascending order. The loan count per country was normalized to be within the range of 0 - 100 (the same range as the percentage data) and overlaid on top of the account ownership data.
 
@@ -79,11 +80,11 @@ We can use this data to help inform future funding efforts. For example, only 10
 
 ### ETL Workflow #2: School Enrollment
 
+When extract the average school enrollment and loans from the dataset, the hypothesize is that there was a positive correlation between average school enrollment (primary) and loan count. 
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL3_School%20Enrollment.png" width=66% />
 </p>
-
-When extract the average school enrollment and loans from the dataset, the hypothesize is that there was a positive correlation between average school enrollment (primary) and loan count. 
 
 We hope that countries with low school enrollment could obtain more loans so that children in these countries are able to receive a better education. Even though the correlation coefficient between them is low, we believe for a few countries, like the Philippines, the loans support children in getting a better education to some extent. Next, we could collect more information, like the policy of each country. For example, due to the nine-year compulsory education, the loan count for China is low but the average school enrollment is high. After analysis, we could find out which countries really need more help and notify lenders.
 
@@ -99,15 +100,13 @@ The intents of charts are to zoom into the correlations between the country aver
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL4_Loan%20Amount.png" width=66% />
 </p>
 
-<center>Average (2016-2018) Loan Amount Distribution by Country</center>
-
 <br>
-<br>
+From the results, we can see the correlation is relatively low. In countries with higher GDP, loan amounts are randomly distributed; contrasts are high (see comparisons between Brazil, Turkey and Mexico). In countries with lower GDP, we can see huge contrasts, between countries with high loan amounts (Philippines, Kenya, Cambodia, El Salvador) and countries with low loan amounts (Burundi, Malawi, Togo, etc).
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL4_GDP.png" width=66% />
-<center>Average (2016-2018) GDP by Country</center>
 </p>
 
-From the results, we can see the correlation is relatively low. In countries with higher GDP, loan amounts are randomly distributed; contrasts are high (see comparisons between Brazil, Turkey and Mexico). In countries with lower GDP, we can see huge contrasts, between countries with high loan amounts (Philippines, Kenya, Cambodia, El Salvador) and countries with low loan amounts (Burundi, Malawi, Togo, etc).
+If the intent of Kiva is to support need-based local recipients to conduct small businesses, outreach efforts in countries with low GDP and low amounts are suggested to be further explored. Increasing loan lending channels in those areas through collaborations with local authorities, educating local residents to increase awareness, etc. It is also suggested to utilize the successful model and lessons in the Philippines to project outreach efforts into countries (at the leftmost side x-axis).
+
 
