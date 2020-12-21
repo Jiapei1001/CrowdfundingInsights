@@ -61,9 +61,9 @@ The responsive web application is capable of communicating with backend SQL data
 
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_Population%20with%20an%20Account%20By%20Country.png" width=66% />
 
-<img src="https://drive.google.com/uc?export=view&id=1pXWrPmtCtJ4aZLxGsMy2YHefKph01aJC" width=66% />
+<img src="https://github.com/Jiapei1001/CrowdfundingInsights/blob/main/WebContent/resources/images/ETL1_result.png" width=66% />
 
-<img src="https://drive.google.com/uc?export=view&id=1yVgUXCtKo6bQQ5Q_UdqTavd8Sg3nsmpE" width=66% />
+<img src="https://https://github.com/Jiapei1001/CrowdfundingInsights/blob/main/WebContent/resources/images/ETL1_result_map.png" width=66% />
 
 
 ### ETL Workflow #2: 
