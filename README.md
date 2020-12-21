@@ -56,7 +56,7 @@ The responsive web application is capable of communicating with backend SQL data
 
 	In this data set, we look at the prevalence of unemployment in a country. The numbers are given as a percentage as the total workforce. Our reason for investigating the unemployment rate is that small businesses are at a higher risk of going under, and that we expect to see a correlation between loans requested and unemployment. Although the dataset included many years worth of data, we chose to only look at 2018.
 
-### ETL Workflow #1: Average (2016- 2018) Percentage of Population with an Account at a Financial Institution By Country
+### ETL Workflow #1: Percentage of Population with an Account at a Financial Institution By Country
 
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_Population%20with%20an%20Account%20By%20Country.png" width=66% />
 
@@ -65,7 +65,7 @@ The responsive web application is capable of communicating with backend SQL data
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_result_map.png" width=66% />
 
 
-### ETL Workflow #2: Average (2016- 2018) Percentage of Population with an Account at a Financial Institution By Region
+### ETL Workflow #2: Percentage of Population with an Account at a Financial Institution By Region
 
 
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL2_Population%20with%20an%20Account%20%20By%20Region.png" width=66% />
@@ -81,7 +81,7 @@ The responsive web application is capable of communicating with backend SQL data
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL3_result.png" width=66% />
 
 
-### ETL Workflow #4: Average (2016-2018) Loan Amount Distribution and GDP by Country
+### ETL Workflow #4: Loan Amount Distribution and GDP by Country
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL4_Loan%20Amount.png" width=66% />
 
 <center>Average (2016-2018) Loan Amount Distribution by Country</center>
