@@ -58,37 +58,56 @@ The responsive web application is capable of communicating with backend SQL data
 
 ### ETL Workflow #1: Percentage of Population with an Account at a Financial Institution By Country
 <p align="center">
-<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_Population%20with%20an%20Account%20By%20Country.png" width=50% align="center"/>asfsfsdafsdafsdafsdafdsafsdafdsafdsafsddsa
+<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_Population%20with%20an%20Account%20By%20Country.png" width=66% align="center"/>
 </p>
 
+The inspiration behind this graph was to determine if there was a negative correlation between the percentage of those with an account at a financial institution and the loan count. Surprisingly the correlation coefficient was only -0.14 indicating that there is no correlation between account ownership and loan count.
+
+In the graph below,  the average percentage of the population with account ownership by country is represented by a bar chart and sorted in ascending order. The loan count per country was normalized to be within the range of 0 - 100 (the same range as the percentage data) and overlaid on top of the account ownership data.
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_result.png" width=66% align="center"/>
+</p>
 
+Kiva’s goal is to provide access to loans to those who have limited access to obtaining a loan from a financial institution. A country with a low percentage of their population having an account at a financial institution could benefit greatly from a crowdfunding service such as Kiva.
+
+We can use this data to help inform future funding efforts. For example, only 10% of the population in South Sudan had an account at a financial institution, but the normalized loan count is nearly zero. Kiva can increase their outreach efforts in this area and notify partner lenders of the need.
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_result_map.png" width=66% align="center"/>
+</p>
 
+### ETL Workflow #2: School Enrollment
 
-### ETL Workflow #2: Percentage of Population with an Account at a Financial Institution By Region
-
-
-<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL2_Population%20with%20an%20Account%20%20By%20Region.png" width=66% align="center"/>
-
-<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL2_result.png" width=66% />
-
-
-### ETL Workflow #3: School Enrollment
-
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL3_School%20Enrollment.png" width=66% />
+</p>
 
+When extract the average school enrollment and loans from the dataset, the hypothesize is that there was a positive correlation between average school enrollment (primary) and loan count. 
+
+We hope that countries with low school enrollment could obtain more loans so that children in these countries are able to receive a better education. Even though the correlation coefficient between them is low, we believe for a few countries, like the Philippines, the loans support children in getting a better education to some extent. Next, we could collect more information, like the policy of each country. For example, due to the nine-year compulsory education, the loan count for China is low but the average school enrollment is high. After analysis, we could find out which countries really need more help and notify lenders.
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL3_result.png" width=66% />
+</p>
 
+### ETL Workflow #3: Loan Amount Distribution and GDP by Country
 
-### ETL Workflow #4: Loan Amount Distribution and GDP by Country
+The intents of charts are to zoom into the correlations between the country average GDP and the total loan amount, and their geographical distributions. We wanted to study if the loans are evenly distributed, or have a positive or negative correlation with average GDP.
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL4_Loan%20Amount.png" width=66% />
+</p>
 
 <center>Average (2016-2018) Loan Amount Distribution by Country</center>
 
 <br>
 <br>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL4_GDP.png" width=66% />
 <center>Average (2016-2018) GDP by Country</center>
+</p>
+
+From the results, we can see the correlation is relatively low. In countries with higher GDP, loan amounts are randomly distributed; contrasts are high (see comparisons between Brazil, Turkey and Mexico). In countries with lower GDP, we can see huge contrasts, between countries with high loan amounts (Philippines, Kenya, Cambodia, El Salvador) and countries with low loan amounts (Burundi, Malawi, Togo, etc).
+
