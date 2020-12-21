@@ -59,7 +59,7 @@ The responsive web application is capable of communicating with backend SQL data
 ### ETL Workflow #1: 
 ##### Average (2016- 2018) Percentage of Population with an Account at a Financial Institution By Country
 
-<img src="https://drive.google.com/uc?export=view&id=1Yuz3m4mBGvYl4VPqUdXHKYKUyg9gjJrj" width=66% />
+<img src="https://raw.githubusercontent.com/Jiapei1001/CrowdfundingInsights/main/WebContent/resources/images/ETL1_Population%20with%20an%20Account%20By%20Country.png" width=66% />
 
 <img src="https://drive.google.com/uc?export=view&id=1pXWrPmtCtJ4aZLxGsMy2YHefKph01aJC" width=66% />
 
