@@ -6,7 +6,7 @@ Hello, there! Welcome to CrowdfundingInsights!
 <img src="https://www.eatplaydrink.capetown/wp-content/uploads/2019/06/footer_image.png" />
 
 
-Let me introduce myself.
+Let me introduce it.
 
 
 ## Value Proposition:
